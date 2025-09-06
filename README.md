@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi 👋, I'm Aarya
 
-<!--
-**aaryaj154/aaryaj154** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year Engineering Student
+💻 Comfortable with Python & SQL
+📊 Experienced in data handling and CSV file management
 
-Here are some ideas to get you started:
+🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages: Python, SQL
+
+Data Handling: CSV, Pandas, NumPy
+
+Databases: MySQL, SQLite
+
+Tools: Git & GitHub
+
+📌 Projects
+https://github.com/aaryaj154/Computerised-dictionary
+
+How to reach me: aaryaj154@gmail.com
