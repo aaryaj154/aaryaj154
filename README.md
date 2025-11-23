@@ -16,6 +16,7 @@ Tools: Git & GitHub
 
 📌 Projects
 https://github.com/aaryaj154/Computerised-dictionary
+
 https://github.com/aaryaj154/shape-detection-model
 
 How to reach me: aaryaj154@gmail.com
