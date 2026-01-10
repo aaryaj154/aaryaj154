@@ -20,4 +20,6 @@ Computersised Dictionary : https://github.com/aaryaj154/Computerised-dictionary
 
 Shape Detection Model : https://github.com/aaryaj154/shape-detection-model
 
+Offline Voice Assistant : https://github.com/aaryaj154/offline-voice-assistant
+
 How to reach me: aaryaj154@gmail.com
