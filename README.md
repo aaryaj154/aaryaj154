@@ -6,7 +6,7 @@ Hi 👋, I'm Aarya
 
 🛠️ Tech Stack
 
-Languages: Python, SQL
+Languages: Python, SQL, C, C++
 
 Data Handling: CSV, Pandas, NumPy
 
