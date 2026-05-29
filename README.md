@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:16a34a,100:0d1117&height=200&section=header&text=Hey%20there!%20I'm%20Aarya%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Engineering%20Student%20%7C%20Python%20%7C%20Data%20%7C%20Builder&descAlignY=58&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:16a34a,100:0d1117&height=200&section=header&text=Hey%20there!%20I'm%20Aarya%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=DSA%20%7C%20Learning%20All%20C%2B%2B%20%7C%20Building%20Daily&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Typing animation -->
 <a href="https://github.com/aaryaj154">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=16A34A&center=true&vCenter=true&width=600&lines=First-year+Engineering+Student+%F0%9F%8E%93;Python+%26+SQL+Developer+%F0%9F%90%8D;Data+Wrangler+with+Pandas+%26+NumPy+%F0%9F%93%8A;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=16A34A&center=true&vCenter=true&width=600&lines=First-year+Engineering+Student+%F0%9F%8E%93;Grinding+DSA+in+C%2B%2B+%F0%9F%94%A5;Python+%26+Data+with+Pandas+%26+NumPy+%F0%9F%93%8A;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -29,7 +29,7 @@ class Aarya:
     email      = "aaryaj154@gmail.com"
     languages  = ["Python", "SQL", "C", "C++"]
     interests  = ["Data Science", "Machine Learning", "Backend Dev"]
-    currently  = "Building cool things & leveling up every day 🚀"
+    currently  = "Grinding DSA in C++ & leveling up every day 🔥"
 ```
 
 ---
@@ -91,18 +91,21 @@ class Aarya:
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Eating My Contributions
 
 <div align="center">
 
-<!-- GitHub Actions needs to generate this — see setup note below -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aaryaj154/aaryaj154/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aaryaj154/aaryaj154/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/aaryaj154/aaryaj154/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" />
 
 </div>
+
+---
+
+## 📊 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aaryaj154&bg_color=0d1117&color=16a34a&line=16a34a&point=ffffff&area=true&area_color=16a34a&hide_border=false&border_color=16a34a" />
 
 ---
 
