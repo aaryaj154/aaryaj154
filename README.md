@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:16a34a,100:0d1117&height=200&section=header&text=Hey%20there!%20I'm%20Aarya%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=DSA%20%7C%20Learning%20All%20C%2B%2B%20%7C%20Building%20Daily&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:16a34a,100:0d1117&height=200&section=header&text=Hey!%20I%27m%20Aarya%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=DSA%20Learner%20%7C%20C%2B%2B%20Grinder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&descColor=a3f0b5&animation=fadeIn" />
 
 <!-- Typing animation -->
 <a href="https://github.com/aaryaj154">
@@ -91,21 +91,61 @@ class Aarya:
 
 ---
 
-## 🐍 Eating My Contributions
+## 🐍 Snake — Eating My Contributions
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aaryaj154/aaryaj154/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aaryaj154/aaryaj154/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/aaryaj154/aaryaj154/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
+> 🛠️ **To activate the snake with YOUR real contributions**, create this file in your `aaryaj154` repo:
+> **`.github/workflows/snake.yml`** → paste the code below → go to **Actions tab** → click **Run workflow** once!
+
+<details>
+<summary><b>📋 snake.yml — copy & paste this</b></summary>
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: aaryaj154
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Also go to: **Settings → Actions → General → Workflow permissions → Read and write** ✅
+
+</details>
+
 ---
 
-## 📊 Contribution Activity
+## 📊 My Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aaryaj154&bg_color=0d1117&color=16a34a&line=16a34a&point=ffffff&area=true&area_color=16a34a&hide_border=false&border_color=16a34a" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aaryaj154&bg_color=0d1117&color=16a34a&line=16a34a&point=22c55e&area=true&hide_border=false&border_color=16a34a&title_color=ffffff" />
+
+</div>
 
 ---
 
