@@ -89,56 +89,6 @@ class Aarya:
 
 </div>
 
----
-
-## 🐍 Snake — Eating My Contributions
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aaryaj154/aaryaj154/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aaryaj154/aaryaj154/output/github-contribution-grid-snake.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/aaryaj154/aaryaj154/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
-> 🛠️ **To activate the snake with YOUR real contributions**, create this file in your `aaryaj154` repo:
-> **`.github/workflows/snake.yml`** → paste the code below → go to **Actions tab** → click **Run workflow** once!
-
-<details>
-<summary><b>📋 snake.yml — copy & paste this</b></summary>
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: aaryaj154
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Also go to: **Settings → Actions → General → Workflow permissions → Read and write** ✅
-
-</details>
-
----
-
 ## 📊 My Contribution Graph
 
 <div align="center">
